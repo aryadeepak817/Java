@@ -44,7 +44,7 @@ class LinkedDelete2
 		}
 		
 	}
-	
+	//delete function to delete a node from given index position.
 	public void deleteNode(int index)
 	{
 		
